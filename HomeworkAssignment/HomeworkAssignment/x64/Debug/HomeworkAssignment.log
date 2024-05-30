@@ -1,0 +1,3 @@
+﻿  AStar.cpp
+C:\Users\Teo\source\repos\HomeworkAssignment\HomeworkAssignment\AStar.cpp(216): warning C4715: 'aStarSearch': not all control paths return a value
+  HomeworkAssignment.vcxproj -> C:\Users\Teo\source\repos\HomeworkAssignment\x64\Debug\HomeworkAssignment.exe
